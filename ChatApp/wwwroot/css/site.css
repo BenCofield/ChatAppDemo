@@ -63,3 +63,9 @@ a, .btn-link {
         content: "An error has occurred."
     }
 
+main {
+    color: white;
+    background-color: #3333335f;
+    margin: 50px;
+    padding: 50px;
+}
